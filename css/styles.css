@@ -1,0 +1,138 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: "merriweather",serif;
+    
+}
+
+.title{
+    font-size: 1.5rem;
+    font-style: normal;
+    color:#66BFBF;
+    font-weight: normal;
+}
+
+h1{
+    margin: 50px auto 0 auto;
+    font-family:"Sacramento",cursive;
+    font-size: 5.625em;
+    color: #66BFBF;
+}
+h2{
+    font-family: "Montserrat",sans-serif;
+    color: #66BFBF;
+}
+.skill{
+    font-size: 300%;
+    color:#11999E;
+}
+h3{
+    font-family: "Montserrat",sans-serif;
+    color:#11999E;
+}
+p{
+    font-family: "Montserrat",sans-serif;
+}
+.top{
+    
+    position: relative;
+    padding-top: 100px;
+    background-color:#E4f9f5;
+}
+.top-cloud{
+    position: absolute;
+    right:300px;
+    top:50px;
+}
+.bottom-cloud{
+    position: absolute;
+    left:300px;
+    bottom:300px;
+}
+
+.btn {
+    background-color: #11999E; /* Green */
+    border-style:double;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 8px;
+  }
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    width: 3%;
+    border-width: 5px;
+    border-color: #66BFBF;
+
+}
+.skill-row1{
+    width: 50%;
+    margin: 50px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.skill-row2{
+    width: 50%;
+    margin: 50px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.dev-icon{
+    float: left;
+    margin-right: 30px;
+}
+.edit-icon{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+.intro{
+    width: 50%;
+    margin: 50px auto 50px auto;
+}
+.hi{
+    font-size: 200%;
+    color:#11999E;
+}
+.profile-pic{
+    margin: 50px auto 50px auto;
+}
+.contact-me{
+    margin: 100px auto 100px auto;
+}
+.outro{
+    font-size: 200%;
+    color:#11999E;
+}
+.footer-message{
+    width: 50%;
+    margin:50px auto 50px auto;
+}
+.bottom-container{
+    background-color:#96dee0 ;
+   /* height: 150px;*/
+    padding: 50px 0 20px;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    color: rgb(31, 136, 136);
+    font-family: "Montserrat",sans-serif;
+    margin:10px 20px;
+}
+a:hover{
+    color: #Eaf6f6;
+}
+.copyright{
+    color: rgb(31, 136, 136);
+    font-size: 1em;
+    padding: 20px 0;
+}
+.name{
+    text-decoration: underline;
+}
